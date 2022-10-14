@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mehul Raj
 - 🌱 I’m currently learning Android , Kotlin
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me - mehulrajpnbe@gmail.com
 - Linkedin   -  https://www.linkedin.com/in/mehul-raj-92604120a/
 
