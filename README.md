@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mehul Raj
+- 👋 Hi, I’m Mehul 
 - 🌱 I’m currently learning Android, JS, React
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me - mehulrajpnbe@gmail.com
