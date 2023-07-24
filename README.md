@@ -3,6 +3,10 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me - mehulrajpnbe@gmail.com
 - Linkedin   -  https://www.linkedin.com/in/mehul-raj-92604120a/
+
+ <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=mehulrajdev&label=Profile%20Views&color=11&icon=0&pretty=false" />
+</a>
 [![](https://visitcount.itsvg.in/api?id=mehulrajdev&label=Profile%20Views&color=11&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!---
