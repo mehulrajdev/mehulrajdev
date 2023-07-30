@@ -20,38 +20,32 @@
 # 🔱 LANGUAGES, Frameworks/Libraries, Tools & Hostings/SaaS
 
 <div>
-    <img alt="HTML" title="HTML" height="55" width="auto" src="./assets/html.png">
+    <img alt="HTML" title="HTML" height="55" width="auto" src="./asset/html.png">
     &nbsp;&nbsp;
     <img alt="CSS" title="CSS" height="55" width="auto" src="https://img.icons8.com/color/344/css3.png">
     &nbsp;&nbsp;
-    <img alt="JavaScript" title="JavaScript" height="48" width="auto" src="./assets/javascript.gif">
+    <img alt="JavaScript" title="JavaScript" height="48" width="auto" src="./asset/javascript.gif">
     &nbsp;&nbsp;
-    <img alt="React" title="React" height="48" width="auto" src="./assets/React.png">
+    <img alt="React" title="React" height="48" width="auto" src="./asset/React.png">
     &nbsp;&nbsp;
-    <img alt="Next" title="Next" height="48" width="auto" src="./assets/next.png">
+    <img alt="SASS" title="SASS" height="48" width="auto" src="./asset/Sass.png">
     &nbsp;&nbsp;
-    <img alt="SASS" title="SASS" height="48" width="auto" src="./assets/Sass.png">
+    <img alt="Bootstrap" title="Bootstrap" height="48" width="auto" src="./asset/Bootstrap.png">
     &nbsp;&nbsp;
-    <img alt="Tailwind CSS" title="Tailwind CSS" height="40" width="auto" src="./assets/tailwind.png">
-    &nbsp;&nbsp;
-    <img alt="Bootstrap" title="Bootstrap" height="48" width="auto" src="./assets/Bootstrap.png">
-    &nbsp;&nbsp;
-    <img alt="Figma" title="Figma" height="48" width="auto" src="./assets/figma.png">
-    &nbsp;&nbsp;
-    <img alt="Photoshop" title="Photoshop" height="48" width="auto" src="./assets/photoshop.png">
+    <img alt="Photoshop" title="Photoshop" height="48" width="auto" src="./asset/photoshop.png">
     &nbsp;&nbsp;
     <br />
-    <img alt="GitHub" title="GitHub" height="40" width="auto" src="./assets/github.png">
+    <img alt="GitHub" title="GitHub" height="40" width="auto" src="./asset/github.png">
     &nbsp;&nbsp;
-    <img alt="VsCode" title="VsCode" height="40" width="auto" src="./assets/vscode.png">
+    <img alt="VsCode" title="VsCode" height="40" width="auto" src="./asset/vscode.png">
     &nbsp;&nbsp;
-    <img alt="NPM" title="NPM" height="40" width="auto" src="./assets/npm.png">
+    <img alt="NPM" title="NPM" height="40" width="auto" src="./asset/npm.png">
     &nbsp;&nbsp;
-    <img alt="Netlify" title="Netlify" height="48" width="auto" src="./assets/netlify.png">
+    <img alt="Netlify" title="Netlify" height="48" width="auto" src="./asset/netlify.png">
     &nbsp;&nbsp;
-    <img alt="Firebase" title="Firebase" height="48" width="auto" src="./assets/firebase.png">
+    <img alt="Firebase" title="Firebase" height="48" width="auto" src="./asset/firebase.png">
     &nbsp;&nbsp;
-    <img alt="Vercel" title="Vercel" height="48" width="auto" src="./assets/vercel.png">
+    <img alt="Vercel" title="Vercel" height="48" width="auto" src="./asset/vercel.png">
 </div>
 
 # 📊 GitHub Stats:
