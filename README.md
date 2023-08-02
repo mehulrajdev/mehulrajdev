@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1691008099~exp=1691008699~hmac=13357f5067ce813125076144412c8341163f5c1151602b9b3d02666bb5f16426" height="200"/>
+  <img src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?w=740&t=st=1691008163~exp=1691008763~hmac=a4152ff255c52158fd1ae72cdba1a6904449ebb53653506e72ff762c2bb0e406" height="200"/>
 </p>
 
 <h1 align="center"> Hey there👋! I'm Mehul.</h1>
