@@ -2,7 +2,7 @@
   <img src="https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010125.jpg?w=740&t=st=1691008163~exp=1691008763~hmac=a4152ff255c52158fd1ae72cdba1a6904449ebb53653506e72ff762c2bb0e406" height="200"/>
 </p>
 
-<h1 align="center"> Hey there👋! I'm Mehul</h1>
+<h1 align="center"> Hey there 👋! I'm Mehul</h1>
 <h3 align="center"> An Enthusiastic & Passionate  Developer 🚀 </h3>
 
 # 💫 About Me
