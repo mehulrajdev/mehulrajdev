@@ -10,7 +10,7 @@
 * 🤯 Exploring Web technologies and developing software solutions
 * 👨🏻‍🎓 Currently Learning - React, Kotlin
 
-# 🌐 Connect
+# 🌐 Connect 
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mehul-raj-92604120a/)](https://www.linkedin.com/in/mehul-raj-92604120a/)
 &nbsp;&nbsp;
@@ -48,7 +48,7 @@
     <img alt="Vercel" title="Vercel" height="48" width="auto" src="./asset/vercel.png">
 </div>
 
-# 📊 GitHub Stats:
+# 📊 My GitHub Stats:
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=mehulrajdev )
 
