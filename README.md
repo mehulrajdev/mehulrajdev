@@ -5,7 +5,7 @@
 <h1 align="center"> Hey there 👋! I'm Mehul</h1>
 <h3 align="center"> An Enthusiastic & Passionate  Developer 🚀 </h3>
 
-# 💫 ABOUT Me
+# 💫 ABOUT ME
 
 * 🤯 Exploring Web technologies and developing software solutions
 * 👨🏻‍🎓 Currently Learning - React, Kotlin
