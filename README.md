@@ -11,7 +11,7 @@
 * 👨🏻‍🎓 Currently Learning - React, Kotlin
 
 
-# 🌐 Connect 
+# 🌐 CONNECT
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mehul-raj-92604120a/)](https://www.linkedin.com/in/mehul-raj-92604120a/)
 &nbsp;&nbsp;
