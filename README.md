@@ -49,7 +49,7 @@
     <img alt="Vercel" title="Vercel" height="48" width="auto" src="./asset/vercel.png">
 </div>
 
-# 📊 My GitHub Stats:
+# 📊 MY GitHub Stats:
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=mehulrajdev )
 
