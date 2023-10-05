@@ -18,7 +18,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mehulrajpnbe@gmail.com)](mailto:mehulrajpnbe@gmail.com)
 
 
-# 🔱 LANGUAGES, FRAMEWORKS/LIBRARIES, TOOLS & HOSTINGS/SaaS
+# 🔱 LANGUAGES, FRAMEWORKS/LIBRARIES, TOOLS & HOSTINGS / SaaS
 
 <div>
     <img alt="HTML" title="HTML" height="55" width="auto" src="./asset/html.png">
