@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> Hey There 👋! I'm Mehul</h1>
-<h3 align="center"> An Enthusiastic & Passionate  Developer 🚀 </h3>
+<h3 align="center">  Enthusiastic & Passionate  Developer 🚀 </h3>
 
 # 💫 ABOUT ME
 
