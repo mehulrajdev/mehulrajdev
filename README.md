@@ -7,7 +7,7 @@
 
 # 💫 ABOUT ME
 
-* 🤯 Exploring Web technologies and developing Software Solutions
+* 🤯 Exploring Web Technologies and Developing Software Solutions
 * 👨🏻‍🎓 Currently Learning - React, Kotlin
 
 
