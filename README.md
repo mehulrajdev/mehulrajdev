@@ -41,7 +41,7 @@
     <br />
     <img alt="GitHub" title="GitHub" height="40" width="auto" src="./asset/github.png">
     &nbsp;&nbsp;
-    <img alt="VsCode" title="VsCode" height="40" width="auto" src="./asset/vscode.png">
+    <img alt="Vs Code" title="VsCode" height="40" width="auto" src="./asset/vscode.png">
     &nbsp;&nbsp;
     <img alt="NPM" title="NPM" height="40" width="auto" src="./asset/npm.png">
     &nbsp;&nbsp;
