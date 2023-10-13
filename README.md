@@ -10,7 +10,7 @@
 # 💫 ABOUT ME
 
 * 🤯 Exploring Web Technologies and Developing Software Solutions
-* 👨🏻‍🎓 Currently Learning - React , Kotlin
+* 👨🏻‍🎓 Currently Learning - React, Kotlin
 
 
 # 🌐 CONNECT
@@ -52,7 +52,7 @@
     <img alt="Vercel" title="Vercel" height="48" width="auto" src="./asset/vercel.png">
 </div>
 
-# 📊 MY GITHUB STATS
+# 📊 MY GITHUB VIEW
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=mehulrajdev )
 
