@@ -13,7 +13,7 @@
 * 👨🏻‍🎓 Currently Learning - React, Kotlin
 
 
-# 🌐 CONNECT
+# 🌐 CONNECT 
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mehul-raj-92604120a/)](https://www.linkedin.com/in/mehul-raj-92604120a/)
 &nbsp;&nbsp;
@@ -26,7 +26,7 @@
 <div>
     <img alt="HTML" title="HTML" height="55" width="auto" src="./asset/html.png">
     &nbsp;&nbsp;
-    <img alt="CSS" title="CSS" height="55" width="auto" src="https://img.icons8.com/color/344/css3.png">
+    <img alt="CSS" title="Css" height="55" width="auto" src="https://img.icons8.com/color/344/css3.png">
     &nbsp;&nbsp;
     <img alt="JavaScript" title="JavaScript" height="48" width="auto" src="./asset/javascript.gif">
     &nbsp;&nbsp;
