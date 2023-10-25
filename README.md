@@ -51,8 +51,7 @@
 
 # 📊 MY GITHUB VIEW
 
-![GitHub Views](https://komarev.com/ghpvc/?username=mehulrajdev )
-
+![GitHub Views](https://komarev.com/ghpvc/?username=mehulrajdev )<br>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulrajdev&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehulrajdev&show_icons=true&locale=en" alt="mehul" /></p>
 
