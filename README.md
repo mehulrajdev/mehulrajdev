@@ -8,7 +8,7 @@
 # 💫 ABOUT ME
 
 * 🤯 Exploring Web Technologies and Developing Software Solutions
-* 👨🏻‍🎓 Currently Learning - Vue , Kotlin
+* 👨🏻‍🎓 Currently Learning - Vue, Kotlin
 
 
 # 🌐 CONNECT 
