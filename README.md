@@ -48,7 +48,6 @@
     <img alt="Vercel" title="Vercel" height="48" width="auto" src="./asset/vercel.png">
 </div>
 
-
 # 📊 MY GITHUB VIEW
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=mehulrajdev )<br>
