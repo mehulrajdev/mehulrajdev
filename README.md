@@ -10,7 +10,7 @@
 * 🤯 Exploring Web Technologies and Developing Software Solutions
 * 👨🏻‍🎓 Currently Learning - Vue, React Router
 
-# 🌐 CONNECT 
+# 🌐 CONNECT TO ME
 
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mehul-raj-92604120a/)](https://www.linkedin.com/in/mehul-raj-92604120a/)
 &nbsp;&nbsp;
