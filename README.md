@@ -47,7 +47,7 @@
     <img alt="Vercel" title="Vercel" height="48" width="auto" src="./asset/vercel.png">
 </div>
 
-# 📊 MY GITHUB VIEW
+# 📊 GITHUB VIEW
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=mehulrajdev )<br>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulrajdev&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
