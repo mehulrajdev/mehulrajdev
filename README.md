@@ -7,7 +7,7 @@
 
 # 💫 ABOUT ME 
 
-* 🤯 Exploring Web Technologies and Developing Software Solution
+* 🤯 Exploring Web Technologies and Developing Software Solutions 
 * 👨🏻‍🎓 Currently Learning - , React Router
 
 # 🌐 CONNECT TO ME
