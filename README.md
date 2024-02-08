@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> Hey There 👋! I'm Mehul </h1>
-<h4 align="center">  Enthusiastic & Passionate  Developer 🚀 </h4>
+<h3 align="center">  Enthusiastic & Passionate  Developer 🚀 </h3>
 
 # 💫 ABOUT ME 
 
@@ -58,4 +58,3 @@
 mehulrajdev/mehulrajdev is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the preview link to take a look at your changes.
 --->
-
