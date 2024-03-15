@@ -8,7 +8,7 @@
 # 💫 ABOUT ME 
 
 * 🤯 Exploring Web Technologies and Developing Software Solutions 
-* 👨🏻‍🎓 Currently Learning -  React Routers and Vue 
+* 👨🏻‍🎓 Currently Learning -  React Routers , Vue 
 
 # 🌐 CONNECT TO ME
 
